@@ -1,0 +1,75 @@
+[
+  {
+    "key" : "CAN",
+    "name" : "Canoas",
+    "latitude" : -29.926949,
+    "longitude" : -51.178050
+  },
+    {
+    "key" : "CNE",
+    "name" : "Canela",
+    "latitude" : -29.360070,
+    "longitude" : -50.835547
+  },
+    {
+    "key" : "MON",
+    "name" : "Montenegro",
+    "latitude" : -29.669667,
+    "longitude" : -51.450692
+  },
+    {
+    "key" : "NH",
+    "name" : "Matriz Novo Hamburgo",
+    "latitude" : -30.016832,
+    "longitude" : -51.209097
+  },
+    {
+    "key" : "OSO",
+    "name" : "Osório",
+    "latitude" : -29.901049,
+    "longitude" : -50.274873
+  }, 
+    {
+    "key" : "POAC",
+    "name" : "Câncio Gomes",
+    "latitude" : -30.016826,
+    "longitude" : -51.209099
+  },
+    {
+    "key" : "POAF",
+    "name" : "Farrapos",
+    "latitude" : -29.997730,
+    "longitude" : -51.198259
+  },
+    {
+    "key" : "POAT",
+    "name" : "Tramonto",
+    "latitude" : -30.066324,
+    "longitude" : -51.233837
+  },
+    {
+    "key" : "POAM",
+    "name" : "MATRIZ",
+    "latitude" : -30.003820,
+    "longitude" : -51.179514
+  },
+    {
+    "key" : "POAA",
+    "name" : "Assis Brasil",
+    "latitude" : -30.001594,
+    "longitude" : -51.134155
+  },
+    {
+    "key" : "SAP",
+    "name" : "Sapiranga",
+    "latitude" : -29.644289,
+    "longitude" : -51.004887
+  },
+    {
+    "key" : "TAQ",
+    "name" : "Taquara",
+    "latitude" : -29.650239,
+    "longitude" : -50.797683
+  }
+
+]
