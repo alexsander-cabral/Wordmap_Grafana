@@ -10,5 +10,11 @@
     "latitude" : -0.1891177844996,
     "longitude" : -78.518791520718,
     "name" : "claroec.portal.datamobpro.com"
+  },
+      {
+    "key" : "CL2",
+    "latitude" : 4.60579593728033,
+    "longitude" : -74.084754073852,
+    "name" : "claroco.portal.datamobpro.com"
   }
 ]
