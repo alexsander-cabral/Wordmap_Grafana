@@ -22,6 +22,84 @@
     "latitude" : -23.627279110336,
     "longitude" : -46.697700516137,
     "name" : "clarocorp.datamobpro.com"
+  },
+    {
+    "key" : "CL5",
+    "latitude" : -0.1891177844996,
+    "longitude" : -78.518791520718,
+    "name" : "claroecbloq.portal.datamobpro.com"
+  },
+    {
+    "key" : "CL6",
+    "latitude" : -0.1891177844996,
+    "longitude" : -78.518791520718,
+    "name" : "claroeclicenses.datamobpro.com"
+  },
+    {
+    "key" : "CL7",
+    "latitude" : -23.627279110336,
+    "longitude" : -46.697700516137,
+    "name" : "clarolicenses.datamobpro.com"
+  },
+    {
+    "key" : "CL8",
+    "latitude" : 18.4849233495488,
+    "longitude" : -69.92095963528,
+    "name" : "clarord.portal.datamobpro.com"
+  },
+    {
+    "key" : "CL9",
+    "latitude" : 21.1664838239500,
+    "longitude" : -98.871423964488,
+    "name" : "controlmovil.telcel.com"
+  },
+  {
+    "key" : "C10",
+    "latitude" : -21.211159060040,
+    "longitude" : -47.805225290490,
+    "name" : "monitor.datamob.net.br"
+  },
+  {
+    "key" : "C11",
+    "latitude" : -21.211159060040,
+    "longitude" : -47.805225290490,
+    "name" : "monitor.portal.datamobpro.com"
+  },
+  {
+    "key" : "C12",
+    "latitude" : -21.196794582362,
+    "longitude" : -47.770957515888,
+    "name" : "oigestaomovel.datamobpro.com"
+  },
+  {
+    "key" : "C13",
+    "latitude" : -21.196794582362,
+    "longitude" : -47.770957515888,
+    "name" : "oigestaomovel.portal.datamobpro.com"
+  },
+  {
+    "key" : "C14",
+    "latitude" : -23.627279110336,
+    "longitude" : -46.697700516137,
+    "name" : "portal.claro.datamobpro.com"
+  },
+   {
+    "key" : "C15",
+    "latitude" : 4.60579593728033,
+    "longitude" : -74.084754073852,
+    "name" : "portal.dev.datamobpro.com"
+  },
+  {
+    "key" : "C16",
+    "latitude" : -23.642539261228,
+    "longitude" : -46.735677084659,
+    "name" : "timmonitor.com"
+  },
+  {
+    "key" : "C17",
+    "latitude" : 4.60579593728033,
+    "longitude" : -74.084754073852,
+    "name" : "beta.telcel.datamobpro.com"
   }
 
 ]
